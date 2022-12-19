@@ -103,9 +103,9 @@ class _QuizPageState extends State<QuizPage> {
                 //The user picked false.
                 bool correctAnswer = answers[questionNumber];
                 if (correctAnswer == false) {
-                  print('right answer');
+                  print('right answer of joyel');
                 } else {
-                  print('wrong answer');
+                  print('wrong answer of joyel');
                 }
                 setState(() {
                   questionNumber++;
