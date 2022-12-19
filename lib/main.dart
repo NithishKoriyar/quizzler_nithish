@@ -112,11 +112,7 @@ class _QuizPageState extends State<QuizPage> {
                 } else {
                   print('user got it wrong');
 
-                  print('right answer');
-                } else {
-                  print('wrong answer');
-
-                }
+                
 
               
                 
